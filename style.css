@@ -88,3 +88,24 @@ body{
 
 }
 
+.navbar a.sign-in {
+    border: 1px solid  #02897A;
+    padding: 15px 35px;
+    border-radius: 4px;
+    margin-left: 15px;
+
+}
+
+.navbar a.sign-up{
+    border: 1px ;
+    background-color: #02897A;
+    color: white;
+    border-radius: 4px;
+    padding: 15px 35px;
+    margin-left: 15px;
+
+}
+
+.navbar img{
+    margin-left: 10px;
+}
