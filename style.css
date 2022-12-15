@@ -58,3 +58,33 @@ body{
   }
   
   
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 16px;
+
+
+}
+.container {
+    max-width: 987px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.navbar {
+    padding: 15px 0;
+
+}
+
