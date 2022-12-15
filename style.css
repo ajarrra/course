@@ -106,6 +106,8 @@ body{
 
 }
 
-.navbar img{
-    margin-left: 10px;
+.navbar img.mini-logo{
+    margin-left: -180px;
+    margin-bottom: -10px;
+
 }
