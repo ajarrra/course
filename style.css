@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Syne+Mono&display=swap');
 *{
     box-sizing: border-box;
 }
- 
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;;
+}
 
   .container { /* задать ширину и выровнять по середине */
     max-width: 980px;
