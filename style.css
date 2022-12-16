@@ -131,7 +131,7 @@ body{
   
   font-size: 40px;
   color: black;
-  font-weight: 800;
+  font-weight: 900;
   
 }
 
@@ -192,10 +192,12 @@ body{
 .button.center{
   text-align: center;
   border: none;
-  margin-left: 550px;
+  margin-left: 580px;
+  margin-bottom: 200px;
 
 }
 
 .image{
   background-image: url(img/Bg\ \(1\).png);
 }
+
