@@ -157,3 +157,9 @@ body{
   text-decoration: none;
 }
 
+.line{
+  color: #02897A;
+  
+  background-color: none;
+  padding: none;
+}
