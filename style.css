@@ -203,4 +203,16 @@ body{
 
 .col-6 p.p-mini{
   font-size: 16px;
+  margin-bottom: 30px;
+  margin-left: 25px;
+  
 }
+
+.col-6 .evenly{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 15px; 
+  position: relative;
+}
+
