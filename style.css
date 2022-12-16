@@ -201,3 +201,6 @@ body{
   background-image: url(img/Bg\ \(1\).png);
 }
 
+.col-6 p.p-mini{
+  font-size: 16px;
+}
