@@ -132,8 +132,15 @@ body{
   font-size: 40px;
   color: black;
   font-weight: 800;
+  
 }
 
 .margin{
   margin-top: 30px;
+}
+
+
+.col-6 p.p-class{
+  font-size: 18px;
+  line-height: 28px;
 }
