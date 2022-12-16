@@ -125,3 +125,15 @@ body{
   margin-top: 30px;
   width: 473px;
 }
+
+
+.col-6 h1.h1-class{
+  margin-top: px;
+  font-size: 40px;
+  color: black;
+  font-weight: 700;
+}
+
+.margin{
+  margin-top: 30px;
+}
