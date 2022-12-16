@@ -116,3 +116,7 @@ body{
     border-radius: 50%;
     background-color: rgb(243, 240, 240);
 }
+.navbar a.product{
+  font-weight: 700;
+  margin-left: 25px;
+}
