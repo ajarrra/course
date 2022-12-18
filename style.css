@@ -145,6 +145,18 @@ body{
   line-height: 28px;
 }
 
+.p-class{
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.h1-class{
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+}
+
+
 
 .button{
   
