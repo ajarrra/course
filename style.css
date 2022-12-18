@@ -251,5 +251,11 @@ body{
   margin: 42px;
 }
 
+.button.centerr{
+  text-align: center;
+  border: none;
+  margin-left: 580px;
+  margin-bottom: 35px;
 
+}
 
