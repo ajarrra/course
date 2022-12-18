@@ -231,3 +231,16 @@ body{
 .p-class.p-alight{
   text-align: center;
 }
+
+.card.card-horizonal{
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+.card .card-content {
+  padding: 16px 25px;
+  border-radius: 30px;
+  margin-left: 15px;
+  border: 1px solid teal;
+  color: black;
+}
