@@ -234,8 +234,8 @@ body{
 
 .card.card-horizonal{
   display: flex;
-  flex-wrap: wrap;
-  }
+  margin: 50px;
+}
 
 .card .card-content {
   padding: 16px 25px;
@@ -243,4 +243,8 @@ body{
   margin-left: 15px;
   border: 1px solid teal;
   color: black;
+  margin-right: 15px;
 }
+
+
+
