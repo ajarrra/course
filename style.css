@@ -228,3 +228,6 @@ body{
   position: relative;
 }
 
+.p-class.p-alight{
+  text-align: center;
+}
