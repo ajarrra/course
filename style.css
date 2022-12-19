@@ -248,8 +248,8 @@ body{
 }
 
 .card{
-  margin: 42px;
-  border: 1px solid gainsboro;
+  margin: 15px;
+  
 }
 
 .button.centerr{
@@ -263,4 +263,13 @@ body{
 .card .card-image{
   width: 100%;
   border-radius: 8px;
+}
+
+.col-4 h3.green{
+  color: #02897A;
+  font-weight: 900;
+}
+
+.col-4 h3{
+  font-weight: 700;
 }
