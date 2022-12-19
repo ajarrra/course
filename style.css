@@ -249,6 +249,7 @@ body{
 
 .card{
   margin: 42px;
+  border: 1px solid gainsboro;
 }
 
 .button.centerr{
