@@ -259,3 +259,7 @@ body{
 
 }
 
+.card .card-image{
+  width: 100%;
+  border-radius: 8px;
+}
