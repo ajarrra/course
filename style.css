@@ -6,7 +6,8 @@
 
 
 body{
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .container { /* задать ширину и выровнять по середине */
