@@ -8,12 +8,18 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    color: #22343D;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color: #22343D;
 }
 
 .container { /* задать ширину и выровнять по середине */
-    max-width: 980px;
-    margin: 0 auto;
+    max-width: 1100px;
+    margin: 0 auto;    
   }
+
 .row { /* строка */
     display: flex;
     flex-wrap: wrap;
@@ -58,6 +64,29 @@ body{
     flex: 100% 0 0;
   }
   
+
+h1{
+  font-size: 40PX;
+
+}
+h2{
+  font-size: 34px;
+
+}
+h3{
+  font-size: 32px;
+}
+
+h4{
+  font-size: 24px;
+}
+
+h5{
+  font-size: 22px;
+}
+h6{
+ font-size: 16px;
+}
   
 .navbar ul {
     display: flex;
@@ -110,10 +139,6 @@ body{
 }
 
 .navbar img.mini-logo{
-    margin-left: -150px;
- 
-    
-    padding: 10px 10px;
     border-radius: 50%;
     background-color: rgb(243, 240, 240);
 }
