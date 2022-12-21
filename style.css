@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Syne+Mono&display=swap');
 *{
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 
 
 body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
-    color: #22343D;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  color: #22343D;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -16,8 +16,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .container { /* задать ширину и выровнять по середине */
-    max-width: 1100px;
-    margin: 0 auto;    
+  max-width: 1100px;
+  margin: 0 auto;    
   }
 
 .row { /* строка */
@@ -89,58 +89,58 @@ h6{
 }
   
 .navbar ul {
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-    padding: 0;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
 
 }
 .navbar a {
-    text-decoration: none;
-    color: black;
-    padding: 5px;
-    border-radius: 5px;
-    margin: 5px;
-    font-size: 16px;
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: 16px;  
 
 
 }
 .container {
-    max-width: 987px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+  max-width: 987px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 .navbar {
-    padding: 15px 0;
+  padding: 15px 0;
 
 }
 
 .navbar a.sign-in {
-    border: 1px solid  #02897A;
-    padding: 15px 35px;
-    border-radius: 4px;
-    margin-left: 15px;
-    font-weight: 700;
+  border: 1px solid  #02897A;
+  padding: 15px 35px;
+  border-radius: 4px;
+  margin-left: 15px;
+  font-weight: 700;  
 
 }
 
 .navbar a.sign-up{
-    border: 1px ;
-    background-color: #02897A;
-    color: white;
-    border-radius: 4px;
-    padding: 15px 35px;
-    margin-left: 20px;
-    font-weight: 700;
-    margin-right: 20px;
+  border: 1px ;
+  background-color: #02897A;
+  color: white;
+  border-radius: 4px;
+  padding: 15px 35px;
+  margin-left: 20px;
+  font-weight: 700;
+  margin-right: 20px;   
 }
 
 .navbar img.mini-logo{
-    border-radius: 50%;
-    background-color: rgb(243, 240, 240);
+  border-radius: 50%;
+  background-color: rgb(243, 240, 240);
 }
 .navbar a.product{
   font-weight: 700;
