@@ -315,10 +315,14 @@ h6{
 
 .circle div{
   align-items: center;
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
   
   background-color: #EFEFEF;
   border-radius: 100%;
   margin: 5px;
+}
+
+.circle .circle-green{
+  background-color: #02897A;
 }
