@@ -156,7 +156,7 @@ h6{
 .col-6 h1.h1-class{
   
   font-size: 40px;
-  color: black;
+  
   font-weight: 900;
   
 }
@@ -178,11 +178,8 @@ h6{
 
 .h1-class{
   font-size: 40px;
-  color: black;
-  font-weight: 900;
+  
 }
-
-
 
 .button{
   
