@@ -304,3 +304,21 @@ h6{
   background-image: url(img/Bg\ \(3\).png);
   
 }
+
+
+.circle {
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.circle div{
+  align-items: center;
+  width: 16px;
+  height: 16px;
+  
+  background-color: #EFEFEF;
+  border-radius: 100%;
+  margin: 5px;
+}
