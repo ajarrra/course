@@ -383,3 +383,7 @@ h6 {
   width: 300px;
   height: 400px;
 }
+
+.price span{
+  font-size: 75px;
+}
