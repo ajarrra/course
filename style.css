@@ -430,3 +430,8 @@ h6 {
 .card.card-price.back .dollar{
   color: white;
 }
+
+.card.card-price.back a{
+  color:#02897A;
+  background-color: white;
+}
