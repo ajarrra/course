@@ -381,7 +381,8 @@ h6 {
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
   border-radius: 8px;
   width: 289px;
-  height: 450px;
+  padding-top: 24px;
+  padding-bottom: 24px; 
 }
 
 
@@ -398,7 +399,7 @@ h6 {
   background-color: #02897A;
   border-radius: 8px;
   padding: 12px 25px;
-  margin-top: 25px;
+  margin-top: 50px;
 }
 
 .price .dollar{
@@ -411,4 +412,21 @@ h6 {
 
 .price .grey{
   color:  #AFAFAF;;
+}
+
+.card.card-price span.five{
+  color: white;
+} 
+
+.card.card-price.back{
+  background-color: #02897A;
+  color: white;
+}
+
+.card.card-price.back h4{
+  color: white;
+}
+
+.card.card-price.back .dollar{
+  color: white;
 }
