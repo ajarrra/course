@@ -371,7 +371,7 @@ h6 {
 .price {
   display: flex;
   align-items: center;
-
+  justify-content: center;
 }
 
 .card.card-price {
@@ -381,8 +381,9 @@ h6 {
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
   border-radius: 8px;
   width: 300px;
-  height: 400px;
+  height: 456px;
 }
+
 
 .price span{
   font-size: 75px;
