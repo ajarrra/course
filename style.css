@@ -387,6 +387,8 @@ h6 {
 
 .price span{
   font-size: 75px;
+  color: #02897A;
+  font-weight: 700;
 }
 
 .card.card.card-price a{
@@ -397,4 +399,12 @@ h6 {
   border-radius: 8px;
   padding: 12px 25px;
   margin-top: 25px;
+}
+
+.price .dollar{
+  color: #02897A;
+  font-weight: 700;
+  font-size: 24px;
+  display: flex;
+  margin: 5px;
 }
