@@ -1,93 +1,117 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Syne+Mono&display=swap');
-*{
+
+* {
   box-sizing: border-box;
 }
 
 
 
-body{
+body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   color: #22343D;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #22343D;
 }
 
-.container { /* задать ширину и выровнять по середине */
+.container {
+  /* задать ширину и выровнять по середине */
   max-width: 1100px;
-  margin: 0 auto;    
-  }
+  margin: 0 auto;
+}
 
-.row { /* строка */
-    display: flex;
-    flex-wrap: wrap;
-  }
-  [class^="col"] {
-    padding: 0 10px;
-  }
- .col-1 {
-    flex: 8.3% 0 0;
-  }
+.row {
+  /* строка */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+[class^="col"] {
+  padding: 0 10px;
+}
+
+.col-1 {
+  flex: 8.3% 0 0;
+}
+
 .col-2 {
-    flex: 16.6% 0 0;
-  }
-.col-3 {
-    flex: 25% 0 0;
-  }
-.col-4 {
-    flex: 33.3% 0 0;
-  }
-.col-5 {
-    flex: 41.6% 0 0;
-  }
-.col-6 {
-    flex: 50% 0 0;
-  }
-.col-7 {
-    flex: 58.3% 0 0;
-  }
-.col-8 {
-    flex: 66.6% 0 0;
-  }
-.col-9 {
-    flex: 75% 0 0;
-  }
-.col-10 {
-    flex: 83% 0 0;
-  }
-.col-11 {
-    flex: 91.6% 0 0;
-  }
-.col-12 {
-    flex: 100% 0 0;
-  }
-  
+  flex: 16.6% 0 0;
+}
 
-h1{
+.col-3 {
+  flex: 25% 0 0;
+}
+
+.col-4 {
+  flex: 33.3% 0 0;
+}
+
+.col-5 {
+  flex: 41.6% 0 0;
+}
+
+.col-6 {
+  flex: 50% 0 0;
+}
+
+.col-7 {
+  flex: 58.3% 0 0;
+}
+
+.col-8 {
+  flex: 66.6% 0 0;
+}
+
+.col-9 {
+  flex: 75% 0 0;
+}
+
+.col-10 {
+  flex: 83% 0 0;
+}
+
+.col-11 {
+  flex: 91.6% 0 0;
+}
+
+.col-12 {
+  flex: 100% 0 0;
+}
+
+
+h1 {
   font-size: 40PX;
 
 }
-h2{
+
+h2 {
   font-size: 34px;
 
 }
-h3{
+
+h3 {
   font-size: 32px;
 }
 
-h4{
+h4 {
   font-size: 24px;
 }
 
-h5{
+h5 {
   font-size: 22px;
 }
-h6{
- font-size: 16px;
+
+h6 {
+  font-size: 16px;
 }
-  
+
 .navbar ul {
   display: flex;
   justify-content: center;
@@ -95,20 +119,22 @@ h6{
   padding: 0;
 
 }
+
 .navbar a {
   text-decoration: none;
   color: black;
   padding: 5px;
   border-radius: 5px;
   margin: 5px;
-  font-size: 16px;  
+  font-size: 16px;
 
 
 }
+
 .container {
   max-width: 987px;
   margin: 0 auto;
-  
+
   justify-content: space-between;
   align-items: baseline;
 }
@@ -119,70 +145,71 @@ h6{
 }
 
 .navbar a.sign-in {
-  border: 1px solid  #02897A;
+  border: 1px solid #02897A;
   padding: 15px 35px;
   border-radius: 4px;
   margin-left: 15px;
-  font-weight: 700;  
+  font-weight: 700;
 
 }
 
-.navbar a.sign-up{
-  border: 1px ;
+.navbar a.sign-up {
+  border: 1px;
   background-color: #02897A;
   color: white;
   border-radius: 4px;
   padding: 15px 35px;
   margin-left: 20px;
   font-weight: 700;
-  margin-right: 20px;   
+  margin-right: 20px;
 }
 
-.navbar img.mini-logo{
+.navbar img.mini-logo {
   border-radius: 50%;
   background-color: rgb(243, 240, 240);
 }
-.navbar a.product{
+
+.navbar a.product {
   font-weight: 700;
   margin-left: 25px;
 }
 
-.col-6 img.people{
+.col-6 img.people {
   margin-top: 30px;
   width: 473px;
 }
 
 
-.col-6 h1.h1-class{
-  
+.col-6 h1.h1-class {
+
   font-size: 40px;
-  
+
   font-weight: 900;
-  
+
 }
 
-.margin{
+.margin {
   margin-top: 70px;
 }
 
 
-.col-6 p.p-class{
+.col-6 p.p-class {
   font-size: 15px;
   line-height: 28px;
 }
 
-.p-class{
+.p-class {
   font-size: 15px;
   line-height: 28px;
 }
 
-.h1-class{
+.h1-class {
   font-size: 40px;
-  
+
 }
 
-.button{
-  
+.button {
+
   background-color: #02897A;
   color: white;
   border-radius: 4px;
@@ -192,39 +219,40 @@ h6{
   text-decoration: none;
 }
 
-.line{
+.line {
   color: #02897A;
   font-weight: 700;
   background-color: none;
   padding: none;
 }
 
-.treg{
+.treg {
   margin-left: 30px;
   margin-right: 15px;
   margin-top: 0px;
 }
 
-.h1-class.alight{
+.h1-class.alight {
   text-align: center;
   line-height: 48px;
   margin-bottom: 50px;
   margin-top: 30px;
-  
+
 }
 
-.icon{
+.icon {
   font-size: 22px;
   font-weight: 600;
 }
-.icon-p{
+
+.icon-p {
   font-size: 16px;
   line-height: 26px;
   color: #22343D;
-  
+
 }
 
-.button.center{
+.button.center {
   text-align: center;
   border: none;
   margin-left: 580px;
@@ -232,32 +260,32 @@ h6{
 
 }
 
-.image{
+.image {
   background-image: url(img/Bg\ \(1\).png);
 }
 
-.col-6 p.p-mini{
+.col-6 p.p-mini {
   font-size: 16px;
   margin-left: 30px;
 
   max-width: 385px;
-  
+
 }
 
-.col-6 .evenly{
+.col-6 .evenly {
   display: flex;
   justify-content: flex-start;
-  
+
   align-items: center;
- 
+
   position: relative;
 }
 
-.p-class.p-alight{
+.p-class.p-alight {
   text-align: center;
 }
 
-.card.card-horizonal{
+.card.card-horizonal {
   display: flex;
   margin-top: 35px;
 }
@@ -269,15 +297,15 @@ h6{
   color: black;
   margin-right: 25px;
   font-size: 16px;
-  box-shadow:  0px 2px 15px rgba(23, 58, 86, 0.1);
+  box-shadow: 0px 2px 15px rgba(23, 58, 86, 0.1);
 }
 
-.card{
+.card {
   margin: 10px;
-  
+
 }
 
-.button.centerr{
+.button.centerr {
   text-align: center;
   border: none;
   margin-left: 580px;
@@ -285,22 +313,22 @@ h6{
 
 }
 
-.card .card-image{
+.card .card-image {
   width: 100%;
   border-radius: 8px;
 }
 
-.col-4 h4.green{
+.col-4 h4.green {
   color: #02897A;
   font-weight: 00;
 }
 
-.col-4 h4{
+.col-4 h4 {
   font-weight: 700;
 }
 
 
-.bg{
+.bg {
   background-image: url(img/Bg\ \(3\).png);
   margin-top: 30px;
   background-repeat: no-repeat;
@@ -310,37 +338,48 @@ h6{
 .circle {
   display: flex;
   justify-content: center;
-  
-  
+
+
 }
 
-.circle div{
+.circle div {
   align-items: center;
   width: 14px;
   height: 14px;
-  
+
   background-color: #EFEFEF;
   border-radius: 100%;
   margin: 5px;
 }
 
-.circle .circle-green{
+.circle .circle-green {
   background-color: #02897A;
 }
 
-.p-alight{
+.p-alight {
   text-align: center;
 }
 
-.h2-alight{
+.h2-alight {
   text-align: center;
 }
 
- .weight{
+.weight {
   font-weight: 700;
 }
 
-.price{
+.price {
   display: flex;
   align-items: center;
+
+}
+
+.card.card-price {
+  text-align: center;
+  border: 1px solid gray;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  width: 300px;
+  height: 400px;
 }
