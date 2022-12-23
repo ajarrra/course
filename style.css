@@ -439,3 +439,8 @@ h6 {
 .card.card-price .ppp{
   margin-bottom: 49px;
 }
+
+
+.designer{
+  display: flex;
+}
