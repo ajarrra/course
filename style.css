@@ -382,27 +382,27 @@ h6 {
   border-radius: 8px;
   width: 289px;
   padding-top: 20px;
-  padding-bottom: 24px; 
+  padding-bottom: 24px;
 }
 
 
-.price span{
+.price span {
   font-size: 75px;
   color: #02897A;
   font-weight: 700;
 }
 
-.card.card.card-price a{
+.card.card.card-price a {
   text-decoration: none;
   font-size: 18px;
   color: white;
   background-color: #02897A;
   border-radius: 8px;
   padding: 12px 25px;
- 
+
 }
 
-.price .dollar{
+.price .dollar {
   color: #02897A;
   font-weight: 700;
   font-size: 24px;
@@ -410,57 +410,68 @@ h6 {
   margin: 5px;
 }
 
-.price .grey{
-  color:  #AFAFAF;;
+.price .grey {
+  color: #AFAFAF;
+  ;
 }
 
-.card.card-price span.five{
+.card.card-price span.five {
   color: white;
-} 
+}
 
-.card.card-price.back{
+.card.card-price.back {
   background-color: #02897A;
   color: white;
 }
 
-.card.card-price.back h4{
+.card.card-price.back h4 {
   color: white;
 }
 
-.card.card-price.back .dollar{
+.card.card-price.back .dollar {
   color: white;
 }
 
-.card.card-price.back a{
-  color:#02897A;
+.card.card-price.back a {
+  color: #02897A;
   background-color: white;
 }
 
-.card.card-price .ppp{
+.card.card-price .ppp {
   margin-bottom: 49px;
 }
 
 
-.designer{
+.designer {
   display: flex;
 }
 
-.designer .margin-left{
+.designer .margin-left {
   margin-left: 14px;
 }
 
-.card .p-content{
-  color:#737373;
+.card .p-content {
+  color: #737373;
   line-height: 28px;
 }
 
-.designer .wahid{
+.designer .wahid {
   color: #02897A;
   font-weight: 600;
   font-size: 16px;
 }
 
-.designer .designer-mini{
+.designer .designer-mini {
   font-size: 14px;
-  color:  #252B42;
+  color: #252B42;
+}
+
+.card.card-stars {
+  background: #FFFFFF;
+  border: 1px solid #DEDEDE;
+  border-radius: 5px;
+  padding-top: 28px;
+  padding-left: 30px;
+  padding-right: 60px;
+  padding-bottom: 23px;
 }
