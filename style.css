@@ -448,3 +448,8 @@ h6 {
 .designer .margin-left{
   margin-left: 14px;
 }
+
+.card .p-content{
+  color:#737373;
+  line-height: 28px;
+}
