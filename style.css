@@ -499,3 +499,15 @@ h6 {
   font-weight: 600;
   font-size: 32px;
 }
+
+.col-7 .button-white{
+  color: #02897A;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 15px 50px;
+}
+
+.col-5 .img-mini{
+  width: 351px;
+}
