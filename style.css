@@ -490,4 +490,13 @@ h6 {
 
 .card.card-horizonall{
   display: flex;
+  border: 1px solid black;
+  background-color: #02897A;
+  border-radius: 32px;
+}
+
+.col-7 .p-white{
+  color: white;
+  font-weight: 600;
+  font-size: 32px;
 }
