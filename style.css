@@ -490,7 +490,6 @@ h6 {
 
 .card.card-horizonall{
   display: flex;
-  border: 1px solid black;
   background-color: #02897A;
   border-radius: 32px;
 }
