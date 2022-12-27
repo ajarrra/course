@@ -278,6 +278,10 @@ h6 {
   padding-left: 75px;
 }
 
+.padding-right{
+  padding-right: 75px;
+}
+
 .col-6 .evenly {
   display: flex;
   justify-content: flex-start;
