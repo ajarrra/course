@@ -328,6 +328,10 @@ h6 {
   border-radius: 8px;
 }
 
+.card.card-time{
+  border: 1px solid black;
+}
+
 .col-4 h4.green {
   color: #02897A;
   font-weight: 00;
