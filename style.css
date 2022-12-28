@@ -1,4 +1,3 @@
-
 * {
   box-sizing: border-box;
 }
@@ -310,7 +309,7 @@ h6 {
   position: relative;
 }
 
-.card-content::before{
+.card-content::before {
   content: "";
   position: absolute;
   bottom: -8px;
@@ -319,10 +318,10 @@ h6 {
   height: 20px;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 3px 2px  rgba(0, 0, 0,0.10) ;
+  box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.10);
 }
 
-.card-content::after{
+.card-content::after {
   content: "";
   position: absolute;
   bottom: -25px;
@@ -331,7 +330,7 @@ h6 {
   height: 10px;
   border-radius: 50%;
   background-color: rgb(162, 43, 43);
-  box-shadow: 0px 3px 2px  rgba(0, 0, 0,0.10) 
+  box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.10)
 }
 
 .card {
@@ -355,7 +354,7 @@ h6 {
   border-radius: 8px;
 }
 
-.card.card-time{
+.card.card-time {
   border: 1px solid black;
 }
 
@@ -517,20 +516,20 @@ h6 {
   padding-bottom: 23px;
 }
 
-.card.card-horizonall{
+.card.card-horizonall {
   display: flex;
   background-color: #02897A;
   border-radius: 32px;
 }
 
-.col-7 .p-white{
+.col-7 .p-white {
   color: white;
   font-weight: 600;
   font-size: 32px;
   line-height: 48px;
 }
 
-.col-7 .button-white{
+.col-7 .button-white {
   color: #02897A;
   background-color: white;
   border: none;
@@ -543,18 +542,22 @@ h6 {
   font-size: 20px;
 }
 
-.col-5 .img-mini{
+.col-5 .img-mini {
   width: 351px;
 }
 
-.col-7{
+.col-7 {
   padding-left: 50px;
 }
 
-.col-11{
+.col-11 {
   margin: 0 auto;
 }
 
+
+.col-3 {
+  flex: 25% 0 1;
+}
 
 footer .row {
   margin-top: 150px;
@@ -600,13 +603,21 @@ footer {
 }
 
 .social {
-  max-width: 150px;
+  width: 35px;
+  height: 35px;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 10px;
   display: flex;
   justify-content: space-around;
+  
+
 }
+
 .footer-p {
   margin-top: 20px;
   text-align: center;
+}
+
+footer h2 {
+  color: #173A56;
 }
