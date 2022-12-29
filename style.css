@@ -679,8 +679,9 @@ footer {
   background: #FFFFFF;
   border: 1px solid #BCD0E5;
   border-radius: 4px;
-  padding: 13px 40px;
+  padding: 13px 45px;
   margin-bottom: 20px;
+  box-shadow: 0 2px 1px gainsboro ;
 }
 
 .finger button {
