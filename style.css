@@ -142,11 +142,27 @@ h6 {
 
 .vavvv{
   display: flex;
+  justify-content: baseline;
+  align-items: center;
+  
+}
+.logo{
+  width: 40px;
+  height: 36px;
+  margin-right: 15px;
+}
+
+.vavvv h2{
+  margin-right: 130px;
 }
 
 nav{
-  
+ display: flex;
+ justify-content: baseline;
+ align-items: center; 
 }
+
+
 .navbar a.sign-in {
   border: 1px solid #02897A;
   padding: 15px 35px;
