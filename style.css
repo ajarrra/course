@@ -349,14 +349,14 @@ h6 {
   text-align: center;
 }
 
-.card .card-image {
+.card.card-time .card-image {
   width: 100%;
-  border-radius: 8px;
+  border-radius: px;
 }
 
 .card-time .border-img img {
-  border-bottom-left-radius: 1;
-  border-radius: 0;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
   
 }
 
