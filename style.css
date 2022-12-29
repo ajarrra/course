@@ -604,7 +604,7 @@ footer {
 .social {
   width: 35px;
   height: 35px;
-  margin: 0 auto;
+  margin: 0 7rem;
   margin-top: 10px;
   display: flex;
   justify-content: space-around;
@@ -612,9 +612,15 @@ footer {
 
 }
 
-.footer .h4-size{
+.instagram{
+  margin-right: 2rem;
+}
+
+
+.col-3 .h4-size{
   color: #02897A;
   font-size: 20px;
+  font-weight: 500;
 }
 
 
