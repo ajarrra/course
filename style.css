@@ -354,9 +354,9 @@ h6 {
   border-radius: 8px;
 }
 
-.card.card-time {
-  
- 
+.card-time .border-img img {
+  border-bottom-left-radius: 1;
+  border-radius: 0;
   
 }
 
@@ -364,8 +364,8 @@ h6 {
   padding-left: 15px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius:8px ;
-  border-color: #02897A;
-  border: 1px solid #02897A;
+  border-color: gainsboro;
+  border: 1px solid gainsboro;
   margin-top: -8px;
 }
 
