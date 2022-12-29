@@ -569,13 +569,20 @@ footer {
   margin: 0 auto;
 }
 
-.finger div {
-  margin: 20px 0px;
+
+.finger h5{
   font-size: 20px;
-  font-weight: 500; 
- 
-  background-color: #ffffff;
-  padding: 20px 15px;
+  font-weight: 500;
+  color: #22343D;
+  margin-bottom: 15px;
+}
+
+.finger input {
+  background: #FFFFFF;
+  border: 1px solid #BCD0E5;
+  border-radius: 4px;
+  padding: 13px 40px;
+  margin-bottom: 20px;
 }
 
 .finger button {
@@ -609,16 +616,16 @@ footer {
   margin-top: 10px;
   display: flex;
   justify-content: space-around;
-  
+
 
 }
 
-.instagram{
+.instagram {
   margin-right: 2rem;
 }
 
 
-.col-3 .h4-size{
+.col-3 .h4-size {
   color: #02897A;
   font-size: 20px;
   font-weight: 500;
