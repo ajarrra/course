@@ -136,9 +136,17 @@ h6 {
 
 .navbar {
   padding: 15px 0;
-
+   
 }
 
+
+.vavvv{
+  display: flex;
+}
+
+nav{
+  
+}
 .navbar a.sign-in {
   border: 1px solid #02897A;
   padding: 15px 35px;
@@ -752,4 +760,8 @@ footer h2 {
 
 .mang h6{
   margin-bottom: 5px;
+}
+
+nav h2{
+  color: #173A56;
 }
