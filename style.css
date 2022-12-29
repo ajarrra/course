@@ -435,8 +435,8 @@ nav{
 .card-content-rightt::after {
   content: "";
   position: absolute;
-  bottom: -25px;
-  left: 220px;
+  bottom: -20px;
+  left: 230px;
   width: 10px;
   height: 10px;
   border-radius: 50%;
