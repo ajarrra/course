@@ -356,6 +356,17 @@ h6 {
 
 .card.card-time {
   
+ 
+  
+}
+
+.card-time .padding-left{
+  padding-left: 15px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius:8px ;
+  border-color: #02897A;
+  border: 1px solid #02897A;
+  margin-top: -8px;
 }
 
 .col-4 h4.green {
