@@ -164,8 +164,9 @@ h6 {
   font-size: 50px;
  } 
 
-  .navbar {
-    width: px;
+  .nav ul {
+   width: 50%;
+   flex-direction: column;
   }
 }
 
