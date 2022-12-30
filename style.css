@@ -38,6 +38,13 @@ h6 {
   }
 }
 
+@media (max-width:767px) {
+  .container{
+    max-width: none;
+  }
+  
+}
+
 .row {
   /* строка */
   display: flex;
