@@ -154,6 +154,23 @@ h6 {
 
 }
 
+@media screen and (max-width:1200px) {
+  .vavvv img{
+    width: 60px;
+    height: 56px;
+  }
+
+ .vavvv h2{
+  font-size: 50px;
+ } 
+
+  .navbar {
+    width: px;
+  }
+}
+
+
+
 /*.container {
   max-width: 987px;
   margin: 0 auto;
