@@ -8,6 +8,7 @@ body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   color: #22343D;
+  min-width: 1100px;
 }
 
 h1,
@@ -127,6 +128,8 @@ h6 {
     background-color: blue;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-self: start;
   }
   
 }
