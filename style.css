@@ -305,9 +305,15 @@ h6 {
   }
 
   main .col-3 h1.icon{
-    font-size: 15px;
-    
+    font-size: 15px; 
   }
+
+  main .col-3 p.icon-p{
+    font-size: 12px;
+  }
+  
+  
+
 
 }
 
