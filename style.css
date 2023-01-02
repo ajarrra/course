@@ -247,6 +247,46 @@ h6 {
 
 }
 
+@media screen and (max-width:992px){
+  .vavvv img {
+    width: 75px;
+    height: 65px;
+  }
+
+  .vavvv h2 {
+    font-size: 60px;
+    display: none;
+  }
+
+  .navbar ul a {
+    font-size: 14px;
+
+   flex-direction: column;
+  }
+
+
+  .navbar ul a.sign-in {
+    border: 1px solid #02897A;
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin-left: 15px;
+    font-weight: 700;
+    
+  }
+
+  .navbar ul a.sign-up {
+    border: 1px;
+    background-color: #02897A;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-left: 20px;
+    font-weight: 700;
+    margin-right: 20px;
+  }
+  
+
+}
 
 
 
