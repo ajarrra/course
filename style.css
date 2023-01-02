@@ -461,7 +461,13 @@ h6 {
     width: 5px;
     height: 5px;
   }
+ main .card-content-rightt::after{
 
+ }
+
+ main .card-content-rightt::before{
+  
+ }
 
 }
 
