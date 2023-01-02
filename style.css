@@ -168,6 +168,13 @@ h6 {
    width: 50%;
    flex-direction: column;
   }
+
+  .button-center .button{
+    
+    margin-left: 20px;  
+    padding: 20px 50px;
+   
+  }
 }
 
 
