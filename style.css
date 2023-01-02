@@ -312,7 +312,16 @@ h6 {
     font-size: 12px;
   }
   
-  
+  .button-center .button.center {
+    padding: 15px 30px;
+    margin-top: 25px;
+
+    margin-left: 400px;
+  }
+
+  .image {
+    background-size: 1000px 350px;
+  }
 
 
 }
