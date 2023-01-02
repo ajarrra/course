@@ -374,6 +374,10 @@ h6 {
     font-size: 10px;
     line-height: 18px;
   }
+  
+  .bg {
+    background-size: 950px 400px;
+  }
 
 
 }
