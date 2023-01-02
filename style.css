@@ -485,7 +485,10 @@ h6 {
  main .card.card-time .padding-left{
    font-size: 12px;
  }
-
+ 
+ main .padding-left h4{
+  font-size: 15px;
+ }
 
 }
 
