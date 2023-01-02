@@ -390,6 +390,27 @@ h6 {
     line-height: 16px;
   }
 
+  main .card.card-horizonal img{
+    width: 80px;
+    height: 80px;
+  }
+  
+  main card.card-content{
+    padding: 5px 20px;
+   
+    display: flex;
+    align-items: center;
+
+    font-weight: 500;
+    border-radius: 30px;
+    margin-left: 25px;
+    color: bisque
+    margin-right: 25px;
+    font-size: 16px;
+    box-shadow: 0px 2px 15px rgba(167, 168, 170, 0.1);
+    position: relative; 
+  }
+  
 
 
 
@@ -614,7 +635,7 @@ nav {
 
 .card .card-content {
   padding: 5px 20px;
-
+   
   display: flex;
   align-items: center;
 
