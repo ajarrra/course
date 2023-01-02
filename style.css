@@ -334,7 +334,7 @@ h6 {
   }
 
   main .mang p.p-class{
-    font-size: 15px;
+    font-size: 10px;
     line-height: 18px;
     
   }
@@ -351,6 +351,30 @@ h6 {
     font-size: 10px;
     line-height: 18px;
   }
+
+  main .evenly img{
+    width: 30px;
+  }
+  main .evenly p.p-mini{
+    font-size: 10px;
+    line-height: 16px;
+  }
+
+  main .padding-right h6{
+    font-size: 14px;
+    line-height: 1px;
+  }
+ 
+  main .col-6 .padding-right h1.h1-class{
+    font-size: 15px;
+    line-height: 10px;
+  }
+
+  main .col-6 .padding-right p.p-class{
+    font-size: 10px;
+    line-height: 18px;
+  }
+
 
 }
 
