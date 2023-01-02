@@ -378,7 +378,11 @@ h6 {
   .bg {
     background-size: 950px 400px;
   }
-
+  
+  main h3.h1-class.alight{
+    font-size: 20px;
+    line-height: 10px;
+  }
 
 }
 
