@@ -477,13 +477,16 @@ h6 {
  }
 
 
- main .col-12 .h1-class{
+  main .col-12 .h1-class{
    font-size: 25px;
    margin-top: 10px;
  }
+  
+ main .card.card-time{
+  
+ }
 
 
- 
 }
 
 
