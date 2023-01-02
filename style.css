@@ -247,7 +247,7 @@ h6 {
 
 }
 
-@media screen and (max-width:992px){
+@media screen and (max-width:992px) {
   .vavvv img {
     width: 75px;
     height: 65px;
@@ -271,7 +271,7 @@ h6 {
     border-radius: 4px;
     margin-left: 15px;
     font-weight: 500;
-    
+
   }
 
   .navbar ul a.sign-up {
@@ -284,34 +284,34 @@ h6 {
     font-weight: 500;
     margin-right: 20px;
   }
-  
-  
-   main .col-6 h1.h1-class  {
+
+
+  main .col-6 h1.h1-class {
     font-size: 25px;
 
   }
-   
-  main .col-6 p.p-class{
+
+  main .col-6 p.p-class {
     font-size: 12px;
   }
 
-  main a.button{
+  main a.button {
     padding: 10px 10px;
     font-size: 15px;
   }
 
-  main h1.h1-class.alight{
+  main h1.h1-class.alight {
     font-size: 25px;
   }
 
-  main .col-3 h1.icon{
-    font-size: 15px; 
+  main .col-3 h1.icon {
+    font-size: 15px;
   }
 
-  main .col-3 p.icon-p{
+  main .col-3 p.icon-p {
     font-size: 12px;
   }
-  
+
   .button-center .button.center {
     padding: 15px 30px;
     margin-top: 25px;
@@ -322,75 +322,76 @@ h6 {
   .image {
     background-size: 1000px 350px;
   }
-  
+
 
   .mang h6 {
     font-size: 14px;
-    
+
   }
 
-  .mang h1.h1-class.m{
+  .mang h1.h1-class.m {
     font-size: 15px;
   }
 
-  main .mang p.p-class{
+  main .mang p.p-class {
     font-size: 10px;
     line-height: 18px;
-    
+
   }
 
-  main .padding-left h6{
-   font-size: 14px;
+  main .padding-left h6 {
+    font-size: 14px;
   }
-  
-  main .padding-left h1.h1-class{
+
+  main .padding-left h1.h1-class {
     font-size: 15px;
   }
 
-  main .padding-left p.p-class{
+  main .padding-left p.p-class {
     font-size: 10px;
     line-height: 18px;
   }
 
-  main .evenly img{
+  main .evenly img {
     width: 30px;
   }
-  main .evenly p.p-mini{
+
+  main .evenly p.p-mini {
     font-size: 10px;
     line-height: 16px;
   }
 
-  main .padding-right h6{
+  main .padding-right h6 {
     font-size: 14px;
     line-height: 1px;
   }
- 
-  main .col-6 .padding-right h1.h1-class{
+
+  main .col-6 .padding-right h1.h1-class {
     font-size: 15px;
     line-height: 10px;
   }
 
-  main .col-6 .padding-right p.p-class{
+  main .col-6 .padding-right p.p-class {
     font-size: 10px;
     line-height: 18px;
   }
-  
+
   .bg {
     background-size: 950px 400px;
   }
-  
-  main h3.h1-class.alight{
+
+  main h3.h1-class.alight {
     font-size: 20px;
     line-height: 10px;
   }
 
-  main p.p-class.p-alight{
+  main p.p-class.p-alight {
     font-size: 14px;
     line-height: 16px;
   }
 
 
-  
+
 
 }
 
@@ -410,6 +411,7 @@ h6 {
   flex-wrap: wrap;
 
 }
+
 .navbar a {
   text-decoration: none;
   color: black;
@@ -420,6 +422,7 @@ h6 {
 
 
 }
+
 .navbar {
   padding: 15px 0;
 
