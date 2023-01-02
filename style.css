@@ -462,11 +462,18 @@ h6 {
     height: 5px;
   }
   main .card-content-rightt::after{
+   bottom: -15px;
+   height: 5px;
+   width: 5px;
+   left: 130px ;
 
  }
 
   main .card-content-rightt::before{
-
+    width: 10px;
+    height: 10px;
+    bottom: -5px;
+    left: 115px;
  }
 
 }
