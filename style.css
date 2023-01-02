@@ -290,7 +290,10 @@ h6 {
     font-size: 25px;
 
   }
-  
+   
+  main .col-6 p.p-class{
+    font-size: 12px;
+  }
 
 }
 
