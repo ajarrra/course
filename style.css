@@ -482,8 +482,8 @@ h6 {
    margin-top: 10px;
  }
   
- main .card.card-time{
-  
+ main .card.card-time .padding-left{
+   font-size: 12px;
  }
 
 
