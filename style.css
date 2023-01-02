@@ -170,10 +170,12 @@ h6 {
   }
 
   .button-center .button{
-    
-    margin-left: 20px;  
     padding: 20px 50px;
-   
+    
+  }
+
+  .image {
+    background-size: 1200px 400px;
   }
 }
 
