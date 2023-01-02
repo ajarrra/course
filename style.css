@@ -295,6 +295,11 @@ h6 {
     font-size: 12px;
   }
 
+  main a.button{
+    padding: 10px 10px;
+    font-size: 15px;
+  }
+
 }
 
 
