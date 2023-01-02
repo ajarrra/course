@@ -411,6 +411,12 @@ h6 {
     position: relative; 
   }
   
+  main .card.card-horizonal .card-content-right{
+    padding: 5px 26px;
+    font-size: 13px;
+  }
+
+  
 
 
 
