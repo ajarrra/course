@@ -322,7 +322,22 @@ h6 {
   .image {
     background-size: 1000px 350px;
   }
+  
 
+  .mang h6 {
+    font-size: 14px;
+    
+  }
+
+  .mang h1.h1-class.m{
+    font-size: 15px;
+  }
+
+  main .mang p.p-class{
+    font-size: 15px;
+    line-height: 18px;
+    
+  }
 
 }
 
