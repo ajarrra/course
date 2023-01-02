@@ -200,7 +200,18 @@ h6 {
     font-size: 50px;
     flex-direction: column;
   }
+  
 
+  footer .social{
+    width: 55px;
+    height: 55px;
+    margin: 0 7rem;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around; 
+  }
+
+  
 }
 
 
