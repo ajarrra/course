@@ -384,6 +384,11 @@ h6 {
     line-height: 10px;
   }
 
+  main p.p-class.p-alight{
+    font-size: 14px;
+    line-height: 16px;
+  }
+
 }
 
 
