@@ -491,8 +491,8 @@ h6 {
  }
 
  main .card.card-price{
-  background-color: palegreen;
-  margin-left: 1px;
+  
+  margin-left: 60px;
   font-size: 13px;
 
   width: 100px;
@@ -508,6 +508,12 @@ h6 {
  main .col-4 .card.card-price .price span{
   font-size: 40px;
  }
+
+ main .col-4 .card.card-price h4{
+  font-size: 15px;
+ }
+
+ 
 
 }
 
