@@ -339,6 +339,19 @@ h6 {
     
   }
 
+  main .padding-left h6{
+   font-size: 14px;
+  }
+  
+  main .padding-left h1.h1-class{
+    font-size: 15px;
+  }
+
+  main .padding-left p.p-class{
+    font-size: 10px;
+    line-height: 18px;
+  }
+
 }
 
 
