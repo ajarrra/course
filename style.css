@@ -169,9 +169,11 @@ h6 {
    flex-direction: column;
   }
 
-  .button-center .button{
+  .button-center .button.center{
     padding: 20px 50px;
+    margin-top: 25px;
     
+    margin-left: 480px;
   }
 
   .image {
