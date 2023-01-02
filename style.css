@@ -164,9 +164,31 @@ h6 {
     font-size: 50px;
   }
 
-  .nav ul {
-    width: 50%;
-    flex-direction: column;
+  .navbar ul a {
+    font-size: 10px;
+    
+    margin-left: 1px;
+  }
+
+
+  .navbar ul a.sign-in {
+    border: 1px solid #02897A;
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin-left: 15px;
+    font-weight: 700;
+  
+  }
+  
+  .navbar ul a.sign-up {
+    border: 1px;
+    background-color: #02897A;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-left: 20px;
+    font-weight: 700;
+    margin-right: 20px;
   }
 
   .button-center .button.center {
