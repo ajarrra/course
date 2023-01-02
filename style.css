@@ -513,7 +513,11 @@ h6 {
   font-size: 15px;
  }
 
- 
+ main .col-4 .adapt .card.card-price {
+  margin-left: 235px;
+  margin-top: 50px;
+  
+ }
 
 }
 
