@@ -1121,6 +1121,8 @@ nav {
   display: flex;
   background-color: #02897A;
   border-radius: 32px;
+  width: 968px;
+  height: 345px;
 }
 
 .col-7 .p-white {
