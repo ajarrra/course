@@ -1137,9 +1137,10 @@ nav {
   background-color: white;
   border: none;
   border-radius: 8px;
-  padding-top: 13px;
-  padding-left: 33px;
-  padding-bottom: 7px;
+  margin-top: 25px;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-bottom: 9px;
   padding-right: 35px;
   font-weight: 600;
   font-size: 20px;
@@ -1147,6 +1148,7 @@ nav {
 
 .col-5 .img-mini {
   width: 351px;
+  height: 331px;
 }
 
 .col-7 {
