@@ -525,6 +525,10 @@ h6 {
     width: 600px;
   }
 
+  main .col-11 .card.card-horizonall img{
+    
+  }
+
   main .col-11 .card.card-horizonall p{
     font-size: 20px;
     line-height: 30px;
