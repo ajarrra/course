@@ -527,7 +527,8 @@ h6 {
 
   main .col-11 .card.card-horizonall img{
     width: 100px;
-    height: 100px;
+    height: 200px;
+    margin-right: 50px;
   }
 
   main .col-11 .card.card-horizonall p{
