@@ -616,10 +616,9 @@ h6 {
   }
 
   .navbar ul a {
-    margin-top: px;
     display: flex ;
     flex-wrap: wrap;
-    font-size: 14px;
+    font-size: 10px;
 
     flex-direction: column;
   }
