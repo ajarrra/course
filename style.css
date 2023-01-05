@@ -595,18 +595,29 @@ h6 {
 
 
 @media screen and (max-width:767px){
-  .vavvv img {
-    
+  .navbar .vavvv img {
+    margin-left: 250px;
     width: 75px;
     height: 65px;
+    margin-top: 1px;
   }
 
   .vavvv h2 {
-    font-size: 60px;
+    font-size: 50px;
+    
+  }
+
+  .navbar ul{
+    margin-top: 100px;
+  }
+
+  .navbar .mini-logo{
     display: none;
   }
 
   .navbar ul a {
+    margin-top: 50px;
+    display: ;
     font-size: 14px;
 
     flex-direction: column;
