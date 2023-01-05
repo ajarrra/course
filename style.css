@@ -551,13 +551,16 @@ h6 {
   }
    
   footer .col-3 .resource{
-    margin-top: 200px;
-    margin-left: 1px;
+    margin-top: 230px;
+    display: none;
+
   }
 
   footer .col-3 .legal-stuff{
-    margin-top: 200px;
+    margin-top: 230px;
+    display: none;
   }
+
 
 
 
