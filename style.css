@@ -569,7 +569,12 @@ h6 {
 
   footer .finger input{
     padding: 30px 150px;
-   border-radius: 15px;
+    border-radius: 15px;
+  }
+
+  footer .finger button{
+    margin-left: 150px;
+    padding: 15px 25px;
   }
 
 
