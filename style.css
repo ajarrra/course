@@ -539,7 +539,13 @@ h6 {
    margin-left: 200px; 
   }
 
-  
+  footer .social .instagram{
+    margin-left: 290px;
+  }
+
+  footer .social{
+    margin-left: 150px;
+  }
 
 }
 
