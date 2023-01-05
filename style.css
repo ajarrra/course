@@ -548,6 +548,15 @@ h6 {
   footer .social{
     margin-left: 200px;
   }
+   
+  footer .col-3 .resource{
+    margin-top: 200px;
+    margin-left: 1px;
+  }
+
+  footer .col-3 .legal-stuff{
+    margin-top: 200px;
+  }
 
 
 
