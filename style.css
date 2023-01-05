@@ -525,7 +525,9 @@ h6 {
     font-size: 20px;
   }
 
-  
+  main .card.card-horizonall .col-5 img{
+    width: 250px;
+  }
 
 }
 
