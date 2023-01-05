@@ -645,11 +645,16 @@ h6 {
   }
   
   main .col-6 h1.h1-class {
-    font-size: 55px;
+    font-size: 25px;
+    br: none
     display: flex;
     flex-wrap: wrap;
     margin-left: 250px ;
 
+  }
+
+  br{
+    display: none;
   }
 
   main .col-6 p.p-class {
