@@ -521,68 +521,68 @@ h6 {
 
   }
 
-  main .col-11 .card.card-horizonall{
+  main .col-11 .card.card-horizonall {
     width: 600px;
   }
 
-  main .col-11 .card.card-horizonall img{
+  main .col-11 .card.card-horizonall img {
     width: 100px;
     height: 200px;
     margin-right: 50px;
   }
 
-  main .col-11 .card.card-horizonall p{
+  main .col-11 .card.card-horizonall p {
     font-size: 20px;
     line-height: 30px;
   }
 
-  main .col-11 .card.card-horizonall .col-5 img{
+  main .col-11 .card.card-horizonall .col-5 img {
     width: 250px;
   }
-  
-  main .col-11 .card.card-horizonall button{
+
+  main .col-11 .card.card-horizonall button {
     font-size: 15px;
     margin-bottom: 15px;
   }
 
-  footer .product-logo{
-   margin-left: 200px;
-    
+  footer .product-logo {
+    margin-left: 200px;
+
   }
 
-  footer .social .instagram{
+  footer .social .instagram {
     margin-left: 200px;
     width: 60px;
     height: 60px;
   }
 
-  footer .social{
+  footer .social {
     margin-left: 200px;
   }
-   
-  footer .col-3 .resource{
+
+  footer .col-3 .resource {
     margin-top: 230px;
     display: none;
 
   }
 
-  footer .col-3 .legal-stuff{
+  footer .col-3 .legal-stuff {
     margin-top: 230px;
     display: none;
   }
 
-  footer .finger h5{
+  footer .finger h5 {
     margin-top: 100px;
-    font-weight: 500 ;
+    font-weight: 500;
     font-size: 19px;
   }
 
-  footer .finger input{
+  footer .finger input {
     padding: 30px 150px;
     border-radius: 15px;
   }
 
-  footer .finger button{
+  footer .finger button {
     margin-left: 150px;
     padding: 15px 25px;
   }
@@ -594,29 +594,29 @@ h6 {
 
 
 
-@media screen and (max-width:767px){
+@media screen and (max-width:767px) {
   .navbar .vavvv img {
-   
+
     width: 75px;
     height: 65px;
-   
+
   }
 
   .vavvv h2 {
     font-size: 50px;
-    
+
   }
 
-  .navbar ul{
+  .navbar ul {
     margin-top: px;
   }
 
-  .navbar .mini-logo{
+  .navbar .mini-logo {
     display: none;
   }
 
   .navbar ul a {
-    display: flex ;
+    display: flex;
     flex-wrap: wrap;
     font-size: 13px;
 
@@ -643,43 +643,38 @@ h6 {
     font-weight: 500;
     margin-right: 20px;
   }
-  
+
   main .col-6 h1.h1-class {
     font-size: 25px;
-    
+
     display: flex;
     flex-wrap: wrap;
-    margin-left: 210px ;
+    margin-left: 210px;
 
   }
 
 
-  main .col-6 img{
-   flex-direction: column;
-   
+  main .col-6 img {
+    flex-direction: column;
+
   }
 
-  main .col-6 h1.h1-class br{
+  main .col-6 h1.h1-class br {
     display: none;
   }
 
-  br{
+  br {
     display: none;
   }
 
-  main .col-6 p.p-class  {
+  main .col-6 p.p-class {
     font-size: 13px;
-    
- 
   }
 
   main a.button {
     padding: 10px 10px;
     font-size: 15px;
   }
-
-
-
 
 }
 
