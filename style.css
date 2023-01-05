@@ -653,20 +653,24 @@ h6 {
 
   }
 
+
   main .col-6 img{
    flex-direction: column;
+   
   }
-  
+
   main .col-6 h1.h1-class br{
     display: none;
   }
 
-  /*br{
+  br{
     display: none;
-  }*/
+  }
 
-  main .col-6 p.p-class {
-    font-size: 12px;
+  main .col-6 p.p-class  {
+    font-size: 13px;
+    
+ 
   }
 
   main a.button {
