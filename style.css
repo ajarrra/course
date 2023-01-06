@@ -699,11 +699,12 @@ h6 {
     padding: 15px 30px;
     margin-top: 25px;
 
-    margin-left: 400px;
+    margin-left: 150px;
   }
 
   .image {
-    background-size: 1000px 350px;
+    background-size: 700px 300px;
+   
   }
 
 }
