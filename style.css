@@ -674,6 +674,9 @@ h6 {
 
   main .col-6 p.p-class {
     font-size: 13px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
   }
 
   main a.button {
