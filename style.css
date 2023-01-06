@@ -713,7 +713,10 @@ h6 {
   main .col-3 h1.icon{
     font-size: 12px;
   }
-
+  
+  main  h1.h1-class.alight{
+    font-size: 20px;
+  }
 }
 
 /*.container {
