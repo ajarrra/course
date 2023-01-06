@@ -704,7 +704,10 @@ h6 {
 
   .image {
     background-size: 700px 300px;
-   
+  }
+
+  main .col-3 .icon-p{
+    display: none;
   }
 
 }
