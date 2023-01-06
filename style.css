@@ -695,6 +695,17 @@ h6 {
     margin-bottom: 50px
   }
 
+  .button-center .button.center {
+    padding: 15px 30px;
+    margin-top: 25px;
+
+    margin-left: 400px;
+  }
+
+  .image {
+    background-size: 1000px 350px;
+  }
+
 }
 
 /*.container {
