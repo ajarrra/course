@@ -710,8 +710,8 @@ h6 {
     display: none;
   }
 
-  main .col-3 .icon{
-    
+  main .col-3 h1.icon{
+    font-size: 12px;
   }
 
 }
