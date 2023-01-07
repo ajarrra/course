@@ -752,6 +752,10 @@ h6 {
     margin-left: 130px;
   } 
 
+  main .evenly p.p-mini{
+    font-size: 20px;
+  }
+
 }
 
 /*.container {
