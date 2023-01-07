@@ -737,6 +737,11 @@ h6 {
     text-align: center;
   }
 
+  main .mang h1.h1-class {
+    text-align: center;
+    margin-left: 200px;
+  }
+
 }
 
 /*.container {
