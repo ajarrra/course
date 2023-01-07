@@ -838,6 +838,13 @@ h6 {
   main .col-4 .adapt .card.card-price{
     margin-left: 123px;
   }
+
+  main .margin .p-alight{
+    font-size: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+  }
 }
 
 /*.container {
