@@ -753,7 +753,8 @@ h6 {
   } 
 
   main .evenly p.p-mini{
-    font-size: 20px;
+    font-size: 13px;
+    margin-top: 15px;
   }
 
 }
