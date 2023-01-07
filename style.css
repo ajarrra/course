@@ -793,7 +793,10 @@ h6 {
     height: 250px;
     
   }
-
+  
+  main .card.card-time .border-img img{
+    border-radius: 30px;
+  }
 
   main .card.card-time h4{
     font-size: 15px;
