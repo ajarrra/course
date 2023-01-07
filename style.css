@@ -756,7 +756,12 @@ h6 {
     font-size: 13px;
     margin-top: 15px;
   }
+  
+  main .padding-right h6{
+    text-align: center;
+  }
 
+  
 }
 
 /*.container {
