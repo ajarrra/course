@@ -778,8 +778,16 @@ h6 {
 
   .bg .p-class.p-alight{
     font-size: 11px;
-    
   }
+
+  .card.card-time{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .
 
 }
 
