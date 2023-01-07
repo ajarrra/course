@@ -765,7 +765,12 @@ h6 {
     margin-left: 159px;
   }
 
-  main 
+  main .col-6 .padding-right p.p-class{
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
 
 }
 
