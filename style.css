@@ -742,6 +742,12 @@ h6 {
     margin-left: 200px;
   }
 
+  main .padding-left h6{
+    font-size: 15px;
+    text-align: center;
+    
+  }
+
 }
 
 /*.container {
