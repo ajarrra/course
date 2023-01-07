@@ -731,6 +731,12 @@ h6 {
   main  h1.h1-class.alight{
     font-size: px;
   }
+
+  main .mang h6{
+    font-size: 15px;
+    text-align: center;
+  }
+
 }
 
 /*.container {
