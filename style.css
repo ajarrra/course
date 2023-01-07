@@ -776,6 +776,11 @@ h6 {
     background-size: 750px 300px;
   }
 
+  .bg .p-class.p-alight{
+    font-size: 11px;
+    
+  }
+
 }
 
 /*.container {
