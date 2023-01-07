@@ -804,6 +804,12 @@ h6 {
     display: none;
   }
 
+  main .card.card-time p{
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
 }
 
 /*.container {
