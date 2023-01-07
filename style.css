@@ -851,14 +851,19 @@ h6 {
     margin-left: 250px;
   }
 
-  main .card.card-stars {
+  /*main .card.card-stars {
     padding: 50px 150px;
    
-  }
+  }*/
 
   main .card.card-stars .p-content br{
    display: none; 
   }
+
+  main .card.card-stars img{
+    margin-left: 150px;
+    width: 120px;
+  } 
 
   main .card.card-stars .designer {
     padding: 45px;
@@ -866,7 +871,10 @@ h6 {
 
   main .card.card-stars .designer img{
     width: 100px;
+    margin-left: px;
   }
+
+
 
 
 }
