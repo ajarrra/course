@@ -851,16 +851,19 @@ h6 {
     margin-left: 250px;
   }
 
-  /*main .card.card-stars {
-    padding: 50px 150px;
+  main .card.card-stars {
+   padding: 15px 50px;
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: 50PX;
    
-  }*/
+  }
 
   main .card.card-stars .p-content br{
    display: none; 
   }
 
-  
+
 
   main .card.card-stars img{
     margin-left: 99px;
