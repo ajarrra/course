@@ -747,7 +747,10 @@ h6 {
     text-align: center;
   }
 
-  
+  main .padding-left h1.h1-class{
+    font-size: 15px;
+    margin-left: 130px;
+  } 
 
 }
 
