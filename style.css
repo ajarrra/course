@@ -761,7 +761,11 @@ h6 {
     text-align: center;
   }
   
-  main .padding-right 
+  main .padding-right h1.h1-class{
+    margin-left: 159px;
+  }
+
+  main 
 
 }
 
