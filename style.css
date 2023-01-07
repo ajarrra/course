@@ -822,8 +822,17 @@ h6 {
   
 
   main .h2-alight{
-    font-size: 15px;
+    font-size: 20px;
+
   }
+
+  main .card.card-price{
+    width: 550px;
+    flex-direction: column;
+    height: 400px;
+    margin-left: 125px;
+    
+  } 
 }
 
 /*.container {
