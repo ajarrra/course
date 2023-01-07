@@ -835,8 +835,8 @@ h6 {
      
   }
   
-  main .adapt .card.card-price{
-    margin-left: 100px;
+  main .col-4 .adapt .card.card-price{
+    margin-left: 123px;
   }
 }
 
