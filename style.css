@@ -850,6 +850,10 @@ h6 {
     font-size: 15px;
     margin-left: 250px;
   }
+
+  main .card.card-stars {
+    padding: 50px 150px;
+  }
 }
 
 /*.container {
