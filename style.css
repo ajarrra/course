@@ -831,8 +831,13 @@ h6 {
     flex-direction: column;
     height: 400px;
     margin-left: 125px;
-    margin-top: 50px;  
-} 
+    margin-top: 50px; 
+     
+  }
+  
+  main .adapt .card.card-price{
+    margin-left: 100px;
+  }
 }
 
 /*.container {
