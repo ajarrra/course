@@ -871,7 +871,14 @@ h6 {
 
   main .card.card-stars .designer img{
     width: 100px;
-    margin-left: px;
+    margin-left: 30px;
+  }
+
+  
+
+  main .card.card-stars .designer .margin-left{
+    margin-left: 40px;
+    font-weight: 500;
   }
 
 
