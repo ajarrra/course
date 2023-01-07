@@ -199,12 +199,8 @@ h6 {
     width: 700px;
   }
 
-  main .card.card-horizonall .col-7 p.p-class{
-    font-size: 10px;
-  }
-
   main .card.card-horizonall p{
-    font-size: 10px;
+    font-size: 20px;
   }
 
 
