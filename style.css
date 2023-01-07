@@ -204,7 +204,9 @@ h6 {
   }
 
   main .card.card-horizonall img{
-    
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
   }
 
 
