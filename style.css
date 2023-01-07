@@ -864,7 +864,9 @@ h6 {
     padding: 45px;
   }
 
-  
+  main .card.card-stars .designer img{
+    width: 100px;
+  }
 
 
 }
