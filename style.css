@@ -852,13 +852,21 @@ h6 {
   }
 
   main .card.card-stars {
-   /* padding: 50px 150px;*/
+    padding: 50px 150px;
    
   }
 
   main .card.card-stars .p-content br{
    display: none; 
   }
+
+  main .card.card-stars .designer {
+    padding: 45px;
+  }
+
+  
+
+
 }
 
 /*.container {
