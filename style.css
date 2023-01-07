@@ -789,8 +789,8 @@ h6 {
   }
 
   main .card.card-time .card-img{
-    width: 200px;
-    height: 250px;
+    width: 150px;
+    height: 200px;
     
   }
   
@@ -819,7 +819,11 @@ h6 {
     border: none
     
   }
+  
 
+  main .h2-alight{
+    font-size: 15px;
+  }
 }
 
 /*.container {
