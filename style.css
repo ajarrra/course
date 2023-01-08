@@ -959,9 +959,9 @@ h6 {
 
 }
 
-@media screen  and (max-width:479px){
+@media screen  and (max-width:550px){
   .navbar .vavvv img {
-    width: 100px;
+    width: 80px;
     height: 65px;
 
   }
