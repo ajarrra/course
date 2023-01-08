@@ -906,7 +906,42 @@ h6 {
     height: 200px;
   }
 
-  
+  footer .social .instagram {
+    margin-left: 100px;
+    width: 60px;
+    height: 60px;
+  }
+
+  footer .social {
+    margin-left: 200px;
+  }
+
+  footer .col-3 .resource {
+    margin-top: 230px;
+    display: none;
+
+  }
+
+  footer .col-3 .legal-stuff {
+    margin-top: 230px;
+    display: none;
+  }
+
+  footer .finger h5 {
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 19px;
+  }
+
+  footer .finger input {
+    padding: 30px 80px;
+    border-radius: 15px;
+  }
+
+  footer .finger button {
+    margin-left: 150px;
+    padding: 15px 25px;
+  }
 
 
 
