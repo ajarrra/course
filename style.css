@@ -957,11 +957,9 @@ h6 {
   }
 
 
-  
-
-
-
 }
+
+@media screen  and (max-width:479px)
 
 /*.container {
   max-width: 987px;
