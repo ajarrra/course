@@ -1093,12 +1093,14 @@ h6 {
 
   .col-12 h2.h1-class{
     font-size: 15px;
+    text-align: center;
   }
   
   .col-12 .p-class{
     font-size: 12px;
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
   }
   
 
@@ -1108,6 +1110,7 @@ h6 {
     flex-direction: column;
     width: 270px;
     height: 300px;
+    margin-left: 40px;
   }
 
   main .card.card-time .card-img{
