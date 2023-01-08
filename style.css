@@ -784,7 +784,7 @@ h6 {
     flex-wrap: wrap;
     display: flex;
     flex-direction: column;
-    width: 500px;
+    width: 400px;
     height: 300px;
   }
 
@@ -799,8 +799,10 @@ h6 {
   }
 
   main .card.card-time h4{
-    font-size: 15px;
+    font-size: 10px;
     color: white;
+    margin-top: 1px;
+
     
   }
 
@@ -810,9 +812,10 @@ h6 {
 
   main .card.card-time p{
     color: white;
-    margin-top: 1px;
-    font-size: 20px;
+    margin-bottom: 50px;
+    font-size: 10px;
     font-weight: 600;
+    margin-left: 80px;
   }
 
   main .card.card-time .padding-left{
