@@ -1068,7 +1068,7 @@ h6 {
   }
 
   .image .col-3 img{
-  width: 40px;
+    width: 40px;
   }
   .image .col-3 .icon{
     font-size: 10px;
@@ -1081,6 +1081,14 @@ h6 {
 
   .bg{
     background-size: 400px 180px;
+  }
+
+  .bg .p-class.p-alight{
+    font-size: 10px;
+    margin-left: 15px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
   }
 
 }
