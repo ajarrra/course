@@ -44,9 +44,9 @@ h6 {
   }  
 }
 
-@media screen  and (max-width:479px){
+@media screen  and (max-width:550px){
   .container{
-    max-width: none;
+    max-width: 400px;
   }
 }
 
@@ -959,7 +959,55 @@ h6 {
 
 }
 
-@media screen  and (max-width:479px)
+@media screen  and (max-width:479px){
+  .navbar .vavvv img {
+    width: 100px;
+    height: 65px;
+
+  }
+
+  .vavvv h2 {
+    font-size: 50px;
+
+  }
+
+  .navbar ul {
+    margin-top: px;
+  }
+
+  .navbar .mini-logo {
+    display: none;
+  }
+
+  .navbar ul a {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 13px;
+
+    flex-direction: column;
+  }
+
+
+  .navbar ul a.sign-in {
+    border: 1px solid #02897A;
+    padding: 8px 12px;
+    border-radius: 4px;
+    margin-left: 15px;
+    font-weight: 500;
+
+  }
+
+  .navbar ul a.sign-up {
+    border: 1px;
+    background-color: #02897A;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin-left: 20px;
+    font-weight: 500;
+    margin-right: 20px;
+  }
+}
 
 /*.container {
   max-width: 987px;
