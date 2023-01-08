@@ -892,6 +892,11 @@ h6 {
     display: none;
   }
 
+  main .col-11 .card.card-horizonall {
+    width: 300px;
+  }
+
+
 
 
 
