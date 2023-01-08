@@ -899,8 +899,13 @@ h6 {
   main .card.card-horizonall .col-7 p.p-class{
     font-size: 10px;
   }
-
   
+  main .card.card-horizonall .col-5 img.img-mini{
+    width: 240px;
+    padding-right: 50px;
+    height: 200px;
+  }
+
 
 
 
