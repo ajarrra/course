@@ -950,10 +950,10 @@ h6 {
     margin-left: 105px;
   }
 
-  /*.bg{
-    display: none;
-  }*/
 
+  main .card.card-horizonall{
+    display: none;
+  }
 
 
 
