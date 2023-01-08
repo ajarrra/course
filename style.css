@@ -893,8 +893,14 @@ h6 {
   }
 
   main .col-11 .card.card-horizonall {
-    width: 300px;
+    width: 500px;
   }
+
+  main .card.card-horizonall .col-7 p.p-class{
+    font-size: 10px;
+  }
+
+  
 
 
 
