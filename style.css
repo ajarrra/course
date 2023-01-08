@@ -1091,6 +1091,12 @@ h6 {
     flex-wrap: wrap;
   }
 
+  .col-12 h2.h1-class{
+    font-size: 15px;
+  }
+
+  
+
 }
 
 /*.container {
