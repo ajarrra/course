@@ -1010,7 +1010,7 @@ h6 {
   }
 
   main .col-6 h1.h1-class {
-    font-size: 25px;
+    font-size: 15px;
 
     display: flex;
     flex-wrap: wrap;
@@ -1021,6 +1021,7 @@ h6 {
 
   main .col-6 img {
     flex-direction: column;
+    width: 20px;
 
   }
 
@@ -1042,25 +1043,27 @@ h6 {
   main a.button {
     padding: 10px 10px;
     font-size: 15px;
-    margin-left: 100px;
+    margin-left: 10px;
   }
 
   main .col-6 img.people {
     flex-wrap: wrap;
     flex-direction: column;
     display: flex;
-    width: 450px;
-    height: 370px;
-    margin-top: 100px;
-    margin-bottom: 50px
+    width: 250px;
+    height: 270px;
+    margin-top: 50px;
+    margin-bottom: 20px
   }
 
   .button-center .button.center {
-    padding: 15px 30px;
+    padding: 15px 20px;
     margin-top: 25px;
 
-    margin-left: 280px;
+    margin-left: 130px;
   }
+
+  
 
 }
 
