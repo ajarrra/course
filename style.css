@@ -991,10 +991,10 @@ h6 {
 
   .navbar ul a.sign-in {
     border: 1px solid #02897A;
-    padding: 8px 12px;
+    padding: 8px 20px;
     border-radius: 4px;
     margin-left: 15px;
-    font-weight: 500;
+    font-weight: 600;
 
   }
 
@@ -1003,9 +1003,9 @@ h6 {
     background-color: #02897A;
     color: white;
     border-radius: 4px;
-    padding: 8px 12px;
+    padding: 8px 20px;
     margin-left: 20px;
-    font-weight: 500;
+    font-weight: 600;
     margin-right: 20px;
   }
 }
