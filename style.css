@@ -41,11 +41,11 @@ h6 {
 @media screen and (max-width:767px) {
   .container {
     max-width: 550px;
-  }  
+  }
 }
 
-@media screen  and (max-width:550px){
-  .container{
+@media screen and (max-width:550px) {
+  .container {
     max-width: 400px;
   }
 }
@@ -199,11 +199,11 @@ h6 {
     width: 700px;
   }
 
-  main .card.card-horizonall p{
+  main .card.card-horizonall p {
     font-size: 20px;
   }
 
-  main .card.card-horizonall img{
+  main .card.card-horizonall img {
     width: 250px;
     height: 200px;
     margin-top: 50px;
@@ -719,19 +719,19 @@ h6 {
     background-size: 750px 250px;
   }
 
-  main .col-3 .icon-p{
+  main .col-3 .icon-p {
     display: none;
   }
 
-  main .col-3 h1.icon{
+  main .col-3 h1.icon {
     font-size: 12px;
   }
-  
-  main  h1.h1-class.alight{
+
+  main h1.h1-class.alight {
     font-size: px;
   }
 
-  main .mang h6{
+  main .mang h6 {
     font-size: 15px;
     text-align: center;
   }
@@ -741,30 +741,30 @@ h6 {
     margin-left: 200px;
   }
 
-  main .padding-left h6{
+  main .padding-left h6 {
     font-size: 15px;
     text-align: center;
   }
 
-  main .padding-left h1.h1-class{
+  main .padding-left h1.h1-class {
     font-size: 15px;
     margin-left: 130px;
-  } 
+  }
 
-  main .evenly p.p-mini{
+  main .evenly p.p-mini {
     font-size: 13px;
     margin-top: 15px;
   }
-  
-  main .padding-right h6{
+
+  main .padding-right h6 {
     text-align: center;
   }
-  
-  main .padding-right h1.h1-class{
+
+  main .padding-right h1.h1-class {
     margin-left: 159px;
   }
 
-  main .col-6 .padding-right p.p-class{
+  main .col-6 .padding-right p.p-class {
     font-size: 12px;
     line-height: 20px;
     display: flex;
@@ -775,11 +775,11 @@ h6 {
     background-size: 750px 300px;
   }
 
-  .bg .p-class.p-alight{
+  .bg .p-class.p-alight {
     font-size: 11px;
   }
 
-  main .card.card-time{
+  main .card.card-time {
     flex-wrap: wrap;
     display: flex;
     flex-direction: column;
@@ -787,29 +787,29 @@ h6 {
     height: 300px;
   }
 
-  main .card.card-time .card-img{
+  main .card.card-time .card-img {
     width: 150px;
     height: 200px;
-    
+
   }
-  
-  main .card.card-time .border-img img{
+
+  main .card.card-time .border-img img {
     border-radius: 30px;
   }
 
-  main .card.card-time h4{
+  main .card.card-time h4 {
     font-size: 10px;
     color: white;
     margin-top: 1px;
 
-    
+
   }
 
-  main .card.card-time h4 br{
+  main .card.card-time h4 br {
     display: none;
   }
 
-  main .card.card-time p{
+  main .card.card-time p {
     color: white;
     margin-bottom: 50px;
     font-size: 10px;
@@ -817,81 +817,80 @@ h6 {
     margin-left: 80px;
   }
 
-  main .card.card-time .padding-left{
+  main .card.card-time .padding-left {
     border: none
-    
   }
-  
 
-  main .h2-alight{
+
+  main .h2-alight {
     font-size: 20px;
 
   }
 
-  main .card.card-price{
+  main .card.card-price {
     width: 550px;
     flex-direction: column;
     height: 400px;
     margin-left: 125px;
-    margin-top: 50px; 
-     
+    margin-top: 50px;
+
   }
-  
-  main .col-4 .adapt .card.card-price{
+
+  main .col-4 .adapt .card.card-price {
     margin-left: 123px;
   }
 
-  main .margin .p-alight{
+  main .margin .p-alight {
     font-size: 12px;
     display: flex;
     flex-wrap: wrap;
     margin-left: 40px;
   }
 
-  main .margin .p-alight.we{
+  main .margin .p-alight.we {
     font-size: 15px;
     margin-left: 250px;
   }
 
   main .card.card-stars {
-   padding: 15px 50px;
-   display: flex;
-   flex-wrap: wrap;
-   margin-left: 20PX;
+    padding: 15px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20PX;
 
-   
+
   }
 
-  main .card.card-stars .p-content br{
-   display: none; 
+  main .card.card-stars .p-content br {
+    display: none;
   }
 
 
 
-  main .card.card-stars img{
+  main .card.card-stars img {
     margin-left: 99px;
     width: 80px;
-  } 
+  }
 
   main .card.card-stars .designer {
     padding: 45px;
   }
 
-  main .card.card-stars .designer img{
+  main .card.card-stars .designer img {
     width: 70px;
     margin-left: 30px;
   }
 
-  main .card.card-stars .designer .margin-left{
+  main .card.card-stars .designer .margin-left {
     margin-left: 40px;
     font-weight: 500;
   }
 
-  main .padding-left{
+  main .padding-left {
     padding-left: 1px;
   }
 
-  main .col-6 .padding-left h6{
+  main .col-6 .padding-left h6 {
     display: none;
   }
 
@@ -900,11 +899,11 @@ h6 {
     margin-left: 80px;
   }
 
-  main .card.card-horizonall p.p-class{
+  main .card.card-horizonall p.p-class {
     font-size: 50px;
   }
-  
-  main .card.card-horizonall .col-5 img.img-mini{
+
+  main .card.card-horizonall .col-5 img.img-mini {
     width: 240px;
     padding-right: 50px;
     height: 200px;
@@ -939,26 +938,27 @@ h6 {
     padding: 15px 25px;
   }
 
-  footer h2{
+  footer h2 {
     padding-left: 1px;
   }
-   
-  footer{
+
+  footer {
     display: flex;
     flex-wrap: wrap;
   }
-  footer .product-logo img{
-    padding-left: 1px ;
+
+  footer .product-logo img {
+    padding-left: 1px;
   }
 
-  footer .product-logo{
+  footer .product-logo {
     margin-left: 105px;
   }
 
 
 }
 
-@media screen  and (max-width:550px){
+@media screen and (max-width:550px) {
   .navbar .vavvv img {
     width: 80px;
     height: 65px;
@@ -971,7 +971,7 @@ h6 {
   }
 
   .navbar a.adaptt {
-  display: none;
+    display: none;
   }
 
 
@@ -1062,14 +1062,15 @@ h6 {
     margin-left: 130px;
   }
 
-  main  h1.h1-class.alight{
+  main h1.h1-class.alight {
     font-size: 15px;
   }
 
-  .image .col-3 img{
+  .image .col-3 img {
     width: 40px;
   }
-  .image .col-3 .icon{
+
+  .image .col-3 .icon {
     font-size: 10px;
     font-weight: 600;
   }
@@ -1078,11 +1079,11 @@ h6 {
     background-size: 400px 180px;
   }
 
-  .bg{
+  .bg {
     background-size: 400px 180px;
   }
 
-  .bg .p-class.p-alight{
+  .bg .p-class.p-alight {
     font-size: 10px;
     margin-left: 15px;
     text-align: center;
@@ -1090,20 +1091,20 @@ h6 {
     flex-wrap: wrap;
   }
 
-  .col-12 h2.h1-class{
+  .col-12 h2.h1-class {
     font-size: 15px;
     text-align: center;
   }
-  
-  .col-12 .p-class{
+
+  .col-12 .p-class {
     font-size: 12px;
     display: flex;
     flex-wrap: wrap;
     text-align: center;
   }
-  
 
-  main .card.card-time{
+
+  main .card.card-time {
     flex-wrap: wrap;
     display: flex;
     flex-direction: column;
@@ -1112,24 +1113,24 @@ h6 {
     margin-left: 40px;
   }
 
-  main .card.card-time .card-img{
+  main .card.card-time .card-img {
     width: 100%;
   }
-  
-  main .card.card-time .border-img img{
+
+  main .card.card-time .border-img img {
     border-radius: 4px;
   }
 
-  main .card.card-time h4{
+  main .card.card-time h4 {
     font-size: 10px;
-    color:black;
+    color: black;
     margin-top: 5px;
     font-weight: 500;
     text-align: center;
     margin-left: 5px;
   }
 
-  main .card.card-time p{
+  main .card.card-time p {
     color: black;
     font-size: 11px;
     font-weight: 600;
@@ -1137,55 +1138,57 @@ h6 {
     padding-bottom: 5px;
   }
 
-  main .card.card-time .padding-left{
+  main .card.card-time .padding-left {
     border-color: gainsboro;
     border: 1px solid gainsboro;
-    margin-top: -8px; 
+    margin-top: -8px;
   }
 
   main .circle div {
     align-items: center;
     width: 10px;
     height: 10px;
-  
+
     background-color: #EFEFEF;
     border-radius: 100%;
     margin: 5px;
   }
 
 
-  main .margin p.p-alight.we{
+  main .margin p.p-alight.we {
     font-size: 10px;
     text-align: center;
     margin-left: 134px;
   }
-  
-  main h1.h1-class.m{
+
+  main h1.h1-class.m {
     margin-left: 120px;
   }
+
   main .card.card-price {
     margin-left: 50px;
     margin-right: 10px;
   }
-  main .col-4 .adapt .card.card-price{
+
+  main .col-4 .adapt .card.card-price {
     margin-left: 50px;
   }
 
-  main .card.card-stars{
+  main .card.card-stars {
     padding: 10px 10px;
   }
-  
-  main  .designer img{
-    width: 50px ;
+
+  main .designer img {
+    width: 50px;
     height: 70px;
   }
 
-  main .margin .p.p-alight{
+  main .margin .p.p-alight {
     text-align: center;
     padding-left: 1px;
   }
 
-  main .col-11 .card.card-horizonall{
+  main .col-11 .card.card-horizonall {
     width: 260px;
     margin-left: 25px;
   }
@@ -1218,20 +1221,21 @@ h6 {
     padding: 15px 25px;
   }
 
-  footer h2{
+  footer h2 {
     padding-left: 1px;
   }
-   
-  footer{
+
+  footer {
     display: flex;
     flex-wrap: wrap;
   }
-  footer .product-logo img{
-    padding-left: 1px ;
+
+  footer .product-logo img {
+    padding-left: 1px;
     width: 50px;
   }
 
-  footer .product-logo{
+  footer .product-logo {
     margin-left: 35px;
   }
 
@@ -1916,4 +1920,8 @@ footer h2 {
 
 nav h2 {
   color: #173A56;
+}
+
+.padding-right h6{
+  margin-bottom: 1px;
 }
