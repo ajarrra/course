@@ -1193,8 +1193,8 @@ h6 {
 
   footer .social .instagram {
     margin-left: 50px;
-    width: 40px;
-    height: 40px;
+    width: 45px;
+    height: 45px;
   }
 
   footer .social {
@@ -1229,16 +1229,12 @@ h6 {
   }
   footer .product-logo img{
     padding-left: 1px ;
+    width: 50px;
   }
 
   footer .product-logo{
-    margin-left: 105px;
+    margin-left: 35px;
   }
-
-  
-
-
-
 
 }
 
