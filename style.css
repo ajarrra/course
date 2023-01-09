@@ -1166,6 +1166,10 @@ h6 {
   }
   main .card.card-price {
     margin-left: 50px;
+    margin-right: 10px;
+  }
+  main .col-4 .adapt .card.card-price{
+    margin-left: 50px;
   }
 
 
