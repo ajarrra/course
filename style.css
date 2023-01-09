@@ -1181,6 +1181,16 @@ h6 {
     height: 70px;
   }
 
+  main .margin .p.p-alight{
+    text-align: center;
+    padding-left: 1px;
+  }
+
+  main .col-11 .card.card-horizonall{
+    width: 260px;
+    margin-left: 25px;
+  }
+
 
 
 
