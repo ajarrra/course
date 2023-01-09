@@ -1191,6 +1191,52 @@ h6 {
     margin-left: 25px;
   }
 
+  footer .social .instagram {
+    margin-left: 50px;
+    width: 40px;
+    height: 40px;
+  }
+
+  footer .social {
+    margin-left: 200px;
+    margin-bottom: 10px;
+  }
+
+
+  footer .finger h5 {
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 15px;
+  }
+
+  footer .finger input {
+    padding: 30px 80px;
+    border-radius: 20px;
+  }
+
+  footer .finger button {
+    margin-left: 85px;
+    padding: 15px 25px;
+  }
+
+  footer h2{
+    padding-left: 1px;
+  }
+   
+  footer{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  footer .product-logo img{
+    padding-left: 1px ;
+  }
+
+  footer .product-logo{
+    margin-left: 105px;
+  }
+
+  
+
 
 
 
