@@ -1164,7 +1164,9 @@ h6 {
   main h1.h1-class.m{
     margin-left: 120px;
   }
-
+  main .card.card-price {
+    margin-left: 50px;
+  }
 
 
 }
