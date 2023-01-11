@@ -1407,14 +1407,20 @@ nav {
 .button.center {
   text-align: center;
   border: none;
-  margin-left: 580px;
+  margin-left: 650px;
   margin-bottom: 200px;
 
+}
+
+.button.center.very{
+  margin-left: 600px;
+  margin-top: 10px;
 }
 
 .image {
   background-image: url(img/Bg\ \(1\).png);
   background-repeat: no-repeat;
+  background-size: 1500px;
 }
 
 
@@ -1628,6 +1634,7 @@ nav {
   padding-top: 10px;
   margin-top: 75px;
   background-repeat: no-repeat;
+  background-size: 1500px ;
 }
 
 
@@ -1804,8 +1811,8 @@ nav {
 }
 
 .col-5 .img-mini {
-  width: 351px;
-  height: 331px;
+  width: 369px;
+  height: 340px;
 }
 
 .col-7 {
@@ -1834,7 +1841,7 @@ footer {
 
 .finger h5 {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   color: #22343D;
   margin-bottom: 15px;
 }
@@ -1895,6 +1902,9 @@ footer {
   margin-bottom: 10px;
 }
 
+.col-3 .resource p{
+  font-weight: 400;
+}
 
 
 .footer-p {
