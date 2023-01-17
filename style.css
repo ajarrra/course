@@ -1154,6 +1154,10 @@ h6 {
     margin: 5px;
   }
 
+  main .button.center.very{
+    margin-left: 150px;
+  }
+
 
   main .margin p.p-alight.we {
     font-size: 10px;
