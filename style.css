@@ -605,6 +605,11 @@ h6 {
     padding: 15px 25px;
   }
 
+  main .button-center .button.center.very{
+    margin-left: 250px;
+    padding: 20px 15px;
+  }
+
 
 
 
@@ -718,7 +723,7 @@ h6 {
   .image {
     background-size: 750px 250px;
   }
-
+ 
   main .col-3 .icon-p {
     display: none;
   }
@@ -954,6 +959,8 @@ h6 {
   footer .product-logo {
     margin-left: 105px;
   }
+
+  
 
 
 }
