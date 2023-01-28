@@ -190,7 +190,7 @@ h6 {
     background-size: 1200px 400px;
   }
 
-  .bg {
+  .background-image-quick {
     background-size: 1200px 400px;
   }
 
@@ -399,7 +399,7 @@ h6 {
     line-height: 18px;
   }
 
-  .bg {
+  .background-image-quick {
     background-size: 400px 400px;
   }
 
@@ -780,11 +780,11 @@ h6 {
     flex-wrap: wrap;
   }
 
-  .bg {
+  .background-image-quick{
     background-size: 750px 300px;
   }
 
-  .bg .p-class.p-alight {
+  .background-image-quick .p-class.p-alight {
     font-size: 11px;
   }
 
@@ -1090,11 +1090,11 @@ h6 {
     background-size: 400px 180px;
   }
 
-  .bg {
+  .background-image-quick {
     background-size: 400px 180px;
   }
 
-  .bg .p-class.p-alight {
+  .background-image-quick .p-class.p-alight {
     font-size: 10px;
     margin-left: 15px;
     text-align: center;
@@ -1644,7 +1644,7 @@ nav {
 }
 
 
-.bg {
+.background-image-quick {
   background-image: url(img/Bg\ \(3\).png);
   padding-top: 10px;
   margin-top: 75px;
