@@ -143,12 +143,12 @@ h6 {
 
 
 @media screen and (max-width:1200px) {
-  .vavvv img {
+  .logo-product img {
     width: 60px;
     height: 56px;
   }
 
-  .vavvv h2 {
+  .logo-product h2 {
     font-size: 50px;
   }
 
@@ -271,12 +271,12 @@ h6 {
 }
 
 @media screen and (max-width:992px) {
-  .vavvv img {
+  .logo-product img {
     width: 75px;
     height: 65px;
   }
 
-  .vavvv h2 {
+  .logo-product h2 {
     font-size: 60px;
     display: none;
   }
@@ -622,14 +622,14 @@ h6 {
 
 
 @media screen and (max-width:767px) {
-  .navbar .vavvv img {
+  .navbar .logo-product img {
 
     width: 75px;
     height: 65px;
 
   }
 
-  .vavvv h2 {
+  .logo-product h2 {
     font-size: 50px;
 
   }
@@ -970,13 +970,13 @@ h6 {
 }
 
 @media screen and (max-width:550px) {
-  .navbar .vavvv img {
+  .navbar .logo-product img {
     width: 50px;
     height: 45px;
 
   }
 
-  .vavvv h2 {
+  .logo-product h2 {
     font-size: 50px;
 
   }
@@ -1287,7 +1287,7 @@ h6 {
 }
 
 
-.vavvv {
+.logo-product {
   display: flex;
   justify-content: baseline;
   align-items: center;
@@ -1300,7 +1300,7 @@ h6 {
   margin-right: 15px;
 }
 
-.vavvv h2 {
+.logo-product h2 {
   margin-right: 130px;
 }
 
