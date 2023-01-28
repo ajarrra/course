@@ -1391,9 +1391,8 @@ nav {
   text-decoration: none;
 }
 .button:hover{
-background-color:#03544b;
-
-border: 1px solid #02897A;
+  background-color:#03544b;
+  border: 1px solid #02897A;
 }
 
 .line {
@@ -1656,6 +1655,11 @@ border: 1px solid #02897A;
 
 .col-4 h4 {
   font-weight: 700;
+}
+
+.card.card-time:hover{
+  background-color: #c1c8c7;
+  
 }
 
 
