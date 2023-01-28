@@ -186,7 +186,7 @@ h6 {
     margin-left: 480px;
   }
 
-  .image {
+  .background-image-product {
     background-size: 1200px 400px;
   }
 
@@ -342,21 +342,21 @@ h6 {
     margin-left: 400px;
   }
 
-  .image {
+  .background-image-product {
     background-size: 1000px 350px;
   }
 
 
-  .mang h6 {
+  .management h6 {
     font-size: 14px;
 
   }
 
-  .mang h1.h1-class.m {
+  .management h1.h1-class.m {
     font-size: 15px;
   }
 
-  main .mang p.p-class {
+  main .management p.p-class {
     font-size: 10px;
     line-height: 18px;
 
@@ -724,7 +724,7 @@ h6 {
     margin-left: 280px;
   }
 
-  .image {
+  .background-image-product {
     background-size: 750px 250px;
   }
  
@@ -740,12 +740,12 @@ h6 {
     font-size: px;
   }
 
-  main .mang h6 {
+  main .management h6 {
     font-size: 15px;
     text-align: center;
   }
 
-  main .mang h1.h1-class {
+  main .management h1.h1-class {
     text-align: center;
     margin-left: 200px;
   }
@@ -1077,16 +1077,16 @@ h6 {
     font-size: 15px;
   }
 
-  .image .col-3 img {
+  .background-image-product .col-3 img {
     width: 40px;
   }
 
-  .image .col-3 .icon {
+  .background-image-product .col-3 .icon {
     font-size: 10px;
     font-weight: 600;
   }
 
-  .image {
+  .background-image-product {
     background-size: 400px 180px;
   }
 
@@ -1432,7 +1432,7 @@ nav {
   margin-top: 10px;
 }
 
-.image {
+.background-image-product {
   background-image: url(img/Bg\ \(1\).png);
   background-repeat: no-repeat;
   background-size: 1600px;
@@ -1939,7 +1939,7 @@ footer h2 {
   margin-top: 5px;
 }
 
-.mang h6 {
+.management h6 {
   margin-bottom: 5px;
 }
 
