@@ -1998,3 +1998,17 @@ nav h2 {
 .product-was.alight h1{
   text-align: center;
 }
+
+
+
+
+.wrapper{
+  margin: 200px auto;
+  width: 320px;
+  background-color: #000;
+  color: white;
+  text-align: center;
+  position: relative;
+  height: 40px;
+}
+
