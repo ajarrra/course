@@ -183,7 +183,8 @@ h6 {
     padding: 20px 50px;
     margin-top: 25px;
 
-    margin-left: 480px;
+    display: block;
+    margin: 0 auto;
   }
 
   .background-image-product {
@@ -214,26 +215,7 @@ h6 {
   }
 
 
-  /* footer .product-logo img {
-    width: 60px;
-    height: 56px;
-  }*/
-
-
-  /* footer .product-logo h2 {
-    font-size: 50px;
-    flex-direction: column;
-  }*/
-
-
-  /* footer .social {
-    width: 55px;
-    height: 55px;
-    margin: 0 7rem;
-    margin-top: 10px;
-    display: flex;
-    justify-content: space-around;
-  }*/
+   
 
   .col-3 .resource {
     flex-direction: column;
@@ -267,6 +249,7 @@ h6 {
     margin-bottom: 20px;
     box-shadow: 0 2px 1px gainsboro;
   }
+  
 
 }
 
@@ -336,11 +319,12 @@ h6 {
   }
 
   .button-center .button.center {
-    padding: 15px 30px;
+    padding: 10px 20px;
     margin-top: 25px;
-
-    margin-left: 400px;
+    display: block;
+    margin: 0 auto;
   }
+  
 
   .background-image-product {
     background-size: 1000px 350px;
@@ -614,7 +598,12 @@ h6 {
     padding: 20px 15px;
   }
 
-
+  .product-was.alight{
+    font-size: 15px;
+  }
+  .h1-class.alight{
+    font-size: 15px;
+  }
 
 
 }
@@ -1068,9 +1057,15 @@ h6 {
 
   .button-center .button.center {
     padding: 10px 10px;
-    margin-top: 25px;
+    margin-top: 55px;
     font-size: 10px;
-    margin-left: 130px;
+
+  }
+  .product-was.alight{
+    font-size: 15px;
+  }
+  .h1-class.alight{
+    font-size: 15px;
   }
 
   main h1.h1-class.alight {
@@ -1436,6 +1431,11 @@ nav {
   background-image: url(img/Bg\ \(1\).png);
   background-repeat: no-repeat;
   background-size: 1600px;
+}
+
+.product-was.alight{
+  text-align: center;
+  margin-bottom: 50px;
 }
 
 
@@ -1961,4 +1961,17 @@ nav h2 {
 
 .card.card-horizonall {
   margin-left: 38px;
+}
+.button-center .button.center {
+  padding: 20px 50px;
+  margin-top: 25px;
+
+  display: block;
+  margin: 0 auto;
+}
+.mt-250{
+  margin-top: 250px;
+}
+.product-was.alight h1{
+  text-align: center;
 }
