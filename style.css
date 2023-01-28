@@ -1326,6 +1326,16 @@ nav {
   margin-right: 20px;
 }
 
+.navbar a.sign-in:hover{
+  background-color:#02897A;
+  color: white;
+}
+.navbar a.sign-up:hover{
+  background-color: white;
+  color: #000;
+  border: 1px solid #02897A ;
+}
+
 .navbar img.mini-logo {
   border-radius: 50%;
   background-color: rgb(243, 240, 240);
@@ -1379,6 +1389,11 @@ nav {
   margin-top: 50px;
   font-weight: 700;
   text-decoration: none;
+}
+.button:hover{
+background-color:#03544b;
+
+border: 1px solid #02897A;
 }
 
 .line {
