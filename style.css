@@ -375,11 +375,11 @@ h6 {
     line-height: 18px;
   }
 
-  main .evenly img {
+  main .never-worry img {
     width: 30px;
   }
 
-  main .evenly p.p-mini {
+  main .never-worry p.p-mini {
     font-size: 10px;
     line-height: 16px;
   }
@@ -760,7 +760,7 @@ h6 {
     margin-left: 130px;
   }
 
-  main .evenly p.p-mini {
+  main .never-worry p.p-mini {
     font-size: 13px;
     margin-top: 15px;
   }
@@ -1456,7 +1456,7 @@ nav {
   padding-right: 75px;
 }
 
-.col-6 .evenly {
+.col-6 .never-worry {
   display: flex;
   justify-content: flex-start;
 
