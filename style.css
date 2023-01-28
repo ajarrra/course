@@ -403,7 +403,7 @@ h6 {
     background-size: 400px 400px;
   }
 
-  main h3.h1-class.alight {
+  main product-was.alight {
     font-size: 20px;
     line-height: 10px;
   }
@@ -1165,7 +1165,7 @@ h6 {
     margin: 5px;
   }
 
-  main .button.center.very{
+  main .button.center.contact{
     margin-left: 150px;
   }
 
@@ -1393,7 +1393,7 @@ nav {
   padding: none;
 }
 
-.treg {
+.triangle {
   margin-left: 30px;
   margin-right: 15px;
   margin-top: 0px;
@@ -1427,7 +1427,7 @@ nav {
 
 }
 
-.button.center.very {
+.button.center.contact {
   margin-left: 600px;
   margin-top: 10px;
 }
@@ -1682,7 +1682,7 @@ nav {
   text-align: center;
 }
 
-.weight {
+.wahid-ari {
   font-weight: 700;
 }
 
@@ -1757,7 +1757,7 @@ nav {
   background-color: white;
 }
 
-.card.card-price .ppp {
+.card.card-price .landing {
   margin-bottom: 49px;
 }
 
