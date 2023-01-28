@@ -1658,9 +1658,9 @@ nav {
 }
 
 .card.card-time:hover{
-  background-color: #c1c8c7;
-  
+  box-shadow: 10px 5px 40px gray;
 }
+
 
 
 .background-image-quick {
@@ -1720,9 +1720,10 @@ nav {
   width: 335px;
   padding-top: 20px;
   padding-bottom: 24px;
-
   height: 525px;
-
+}
+.card.card-price:hover{
+  box-shadow: 10px 5px 40px gray;
 }
 
 
@@ -1813,6 +1814,9 @@ nav {
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 23px;
+}
+.card.card-stars:hover{
+  box-shadow: 10px 5px 40px gray;
 }
 
 .card.card-horizonall {
