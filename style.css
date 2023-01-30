@@ -148,6 +148,7 @@ h6 {
     height: 56px;
   }
 
+
   .logo-product h2 {
     font-size: 50px;
   }
@@ -258,6 +259,7 @@ h6 {
     width: 75px;
     height: 65px;
   }
+
 
   .logo-product h2 {
     font-size: 60px;
@@ -609,9 +611,103 @@ h6 {
 
 }
 
+@media screen and (max-width: 770px) {
+  .hamburger {
+    display: block;
+
+  }
+}
+
 
 
 @media screen and (max-width:767px) {
+
+  .menu {
+    max-height: 0;
+    overflow: hidden;
+    position: absolute;
+    background-color: #02897A;
+    text-align: center;
+    right: 0;
+    left: 0;
+    margin-top: 60px;
+  }
+
+  .menu li a {
+    color: #000;
+    display: block;
+    padding: 11px;
+    text-align: left;
+  }
+
+  .menu li {
+    transition: all .5s;
+
+  }
+
+  .menu li:hover {
+    background-color: #045d52;
+  }
+
+  .menu li a .sign-up {
+    background-color: palegoldenrod;
+    border: none;
+  }
+
+  #checkbox_toggle:checked~.menu {
+    display: block;
+    max-height: 100%;
+    transition: all .5s;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+
+
+  #checkbox_toggle:checked~.hamburger .hamburger-line {
+    background-color: transparent;
+  }
+
+  #checkbox_toggle:checked~.hamburger .hamburger-line::before {
+    transform: rotate(-45deg);
+    top: 0;
+  }
+
+  #checkbox_toggle:checked~.hamburger .hamburger-line::after {
+    transform: rotate(45deg);
+    top: 0;
+  }
+
+  .menu li a.product {
+    margin-left: 0;
+  }
+
+  .menu li a.sign-in {
+    display: none;
+  }
+
+  .menu li a.sign-up {
+    display: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .navbar .logo-product img {
 
     width: 75px;
@@ -636,30 +732,9 @@ h6 {
     display: flex;
     flex-wrap: wrap;
     font-size: 13px;
-
     flex-direction: column;
   }
 
-
-  .navbar ul a.sign-in {
-    border: 1px solid #02897A;
-    padding: 8px 12px;
-    border-radius: 4px;
-    margin-left: 15px;
-    font-weight: 500;
-
-  }
-
-  .navbar ul a.sign-up {
-    border: 1px;
-    background-color: #02897A;
-    color: white;
-    border-radius: 4px;
-    padding: 8px 12px;
-    margin-left: 20px;
-    font-weight: 500;
-    margin-right: 20px;
-  }
 
   main .col-6 h1.h1-class {
     font-size: 25px;
@@ -953,9 +1028,6 @@ h6 {
   footer .product-logo {
     margin-left: 105px;
   }
-
-
-
 
 }
 
@@ -1282,6 +1354,9 @@ h6 {
 .navbar {
   padding: 15px 0;
 
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
 }
 
 
@@ -2026,15 +2101,16 @@ nav h2 {
 .hamburger {
   font-size: 24px;
   cursor: pointer;
-  display: none;
+  /* display: none;*/
+  margin-left: 20px;
 }
 
 .hamburger-line {
   background-color: #02897A;
-  height: 2px;
+  height: 3px;
   display: block;
   position: relative;
-  width: 24px;
+  width: 30px;
 }
 
 .hamburger-line::before,
@@ -2049,10 +2125,9 @@ nav h2 {
 }
 
 .hamburger-line::before {
-  top: 7px;
+  top: 6px;
 }
 
 .hamburger-line::after {
-  top: -7px;
+  top: -6px;
 }
-
