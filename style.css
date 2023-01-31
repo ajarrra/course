@@ -603,9 +603,7 @@ h6 {
     transition: all .5s;
   }
 
-  .hamburger {
-    display: block;
-  }
+  
 
   #checkbox_toggle:checked~.hamburger .hamburger-line {
     background-color: transparent;
@@ -1935,7 +1933,7 @@ nav h2 {
 .hamburger {
   font-size: 24px;
   cursor: pointer;
-  /* display: none;*/
+  display: none;
   margin-left: 20px;
 }
 
@@ -1964,4 +1962,10 @@ nav h2 {
 
 .hamburger-line::after {
   top: -6px;
+}
+
+@media screen and (max-width:767px) {
+  .hamburger {
+    display: block;
+  }
 }
